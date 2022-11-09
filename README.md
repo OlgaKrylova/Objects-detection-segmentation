@@ -1,1 +1,1 @@
-# detection & segmentation
+# Objects detection & segmentation
