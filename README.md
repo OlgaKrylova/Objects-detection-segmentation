@@ -1,6 +1,6 @@
 # Objects detection & segmentation
 Решение задач детекции и сегментации изображений с использованием предобученных моделей
-faster_rcnn_R_50_DC5 и mask_rcnn_R_50_DC5 с использованием баблитеки [detectron2](https://github.com/facebookresearch/detectron2).
+faster_rcnn_R_50_DC5 и mask_rcnn_R_50_DC5 с использованием библиотеки [detectron2](https://github.com/facebookresearch/detectron2).
 
 <p align="center">
 <img src="images/Hard_hats.gif" alt="bash" width="400" height="400"/>
